@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: complete-prodcution-e2e-app
-          image: zouhaircharef/complete-prodcution-e2e-pipeline:CHANGEME
+          image: zouhaircharef/complete-prodcution-e2e-pipeline:1.0.0-15
           resources:
             limits:
               memory: "256Mi"
